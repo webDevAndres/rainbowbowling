@@ -15,6 +15,7 @@
 get_header(); ?>
 
 <div id="primary" class="content-area">
+<h1>THIS IS A TEST DOBEY DOBEY DOO</h1>
 	<main id="main" class="site-main" role="main">
 
 		<?php // Show the selected frontpage content.
